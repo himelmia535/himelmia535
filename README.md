@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himelmia535&label=Profile%20views&color=0e75b6&style=flat" alt="himelmia535" /> </p>
 
-- 🌱 I’m currently learning **CSS, JavaScript, Node.js**
+- 🌱 I’m currently studying Computer science and engineering 
 
-- 👨‍💻 All of my projects are available at [https://rashadhasan.netlify.app](https://rashadhasan.netlify.app)
+- 🌱 I’m currently learning **CSS, JavaScript, Node.js**
 
 - 📫 How to reach me **himelmia535@gmail.com**
 
