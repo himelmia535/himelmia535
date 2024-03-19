@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying Computer science and engineering 
 
-- 🌱 I’m currently learning **React
+- 🌱 I’m currently learning React
 
 - 📫 How to reach me **himelmia535@gmail.com**
 
